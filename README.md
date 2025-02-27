@@ -22,8 +22,6 @@ This repository is structured as follows:
 ├── ip-addresses/          # Malicious IP addresses (TXT/CSV format)
 ├── hashes/                # File hashes (MD5, SHA1, SHA256)
 ├── urls/                  # Malicious URLs
-├── yara-rules/            # YARA rules for detecting malicious files/behaviors
-├── reports/               # SOC analysis reports (PDF/Markdown)
 └── README.md              # This document
 ```
 
